@@ -1,5 +1,6 @@
 package io.navan.tourofheroes.configuration;
 
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import io.navan.tourofheroes.entities.Hero;
