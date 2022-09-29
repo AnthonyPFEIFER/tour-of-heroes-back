@@ -1,1 +1,1 @@
-web: java -jar target/tourofheroes-0.0.1-SNAPSHOT.jar -Dserver.port=$PORT
+web: java -jar target/tourofheroes-0.0.1-SNAPSHOT.jar -Dserver.port=5432
